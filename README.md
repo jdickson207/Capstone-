@@ -1,2 +1,3 @@
 # derp
-Practice
+
+-Template for Group Capstone Projects
