@@ -1,3 +1,1 @@
-# derp
-
--Template for Group Capstone Projects
+----Template for Upcoming Capstone Project
